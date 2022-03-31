@@ -9,8 +9,8 @@ My name is Edgar and I'm a fullstack .NET developer. I'm from Russia, living in 
 
 ### 📱  My contacts:
 
-My VK: https://vk.com/hxxperr/
-My CodeWars: https://www.codewars.com/users/hoop3r/    
+My VK: https://vk.com/hxxperr/ <br>
+My CodeWars: https://www.codewars.com/users/hoop3r/ <br>
 My Telegram: https://t.me/hxxperr/
 
 
