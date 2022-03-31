@@ -7,6 +7,13 @@ My name is Edgar and I'm a fullstack .NET developer. I'm from Russia, living in 
 ![](https://img.shields.io/badge/.NET-SQL-blue)
 ![](https://img.shields.io/badge/Figma-Photoshop-blue)
 
+### 📱  My contacts:
+
+My VK: https://vk.com/hxxperr/
+My CodeWars: https://www.codewars.com/users/hoop3r/    
+My Telegram: https://t.me/hxxperr/
+
+
 <details>
 <summary>GitHub stats</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoop3r" />
