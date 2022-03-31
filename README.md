@@ -6,3 +6,10 @@ My name is Edgar and I'm a fullstack .NET developer. I'm from Russia, living in 
 
 ![](https://img.shields.io/badge/.NET-SQL-blue)
 ![](https://img.shields.io/badge/Figma-Photoshop-blue)
+
+<details>
+<summary>GitHub stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoop3r" />
+  <p />
+  <img src="https://github-readme-stats.vercel.app/api?username=hoop3r&count_private=true&show_icons=true" />
+</details>
