@@ -16,7 +16,7 @@ My Telegram: https://t.me/hxxperr/
 <details>
 <summary>GitHub stats</summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoop3r" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxxperr" />
   <p />
-  <img src="https://github-readme-stats.vercel.app/api?username=hoop3r&count_private=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hxxperr&count_private=true&show_icons=true" />
 </details>
