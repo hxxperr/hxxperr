@@ -1,4 +1,4 @@
-## <img src="https://github.com/hoop3r/hoop3r/blob/e6649c6c8e21de32c7175ec8ac33db3fa3d23087/wave.gif" width="10px"> Hey there, what's up?
+## <img src="https://github.com/hoop3r/hoop3r/blob/e6649c6c8e21de32c7175ec8ac33db3fa3d23087/wave.gif" width="1px"> Hey there, what's up?
 
 My name is Edgar and I'm a software developer. I'm from Russia, living in Odintsovo and currently working at [Eternis](https://www.eternis.ru/) .
 
