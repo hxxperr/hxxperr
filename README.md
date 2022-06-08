@@ -12,7 +12,6 @@ My name is Edgar and I'm a software developer. I'm from Russia, living in Odints
 My VK: https://vk.com/hxxperr/ <br>
 My Telegram: https://t.me/hxxperr/
 
-
 <details>
 <summary>GitHub stats</summary>
   <br>
