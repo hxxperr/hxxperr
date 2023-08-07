@@ -9,8 +9,8 @@ My name is Edgar and I'm a software developer. I'm from Russia, living in Odints
 
 ### 📱  My contacts:
 
-My VK: https://vk.com/hxxperr/ <br>
-My Telegram: https://t.me/hxxperr/
+<a href = "https://www.linkedin.com/in/eddiesark/">LinkedIn</a> </br>
+<a href = "https://t.me/hxxperr/">Telegram</a>
 
 <details>
 <summary>GitHub stats</summary>
