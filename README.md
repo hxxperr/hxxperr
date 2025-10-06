@@ -10,7 +10,7 @@ My name is Edgar and I'm a software developer.
 ### 📱  My contacts:
 
 <a href = "https://www.linkedin.com/in/eddiesark/">LinkedIn</a> </br>
-<a href = "https://t.me/hxxperr/">Telegram</a>
+<a href = "https://t.me/edgar_arch/">Telegram</a>
 
 <details>
 <summary>GitHub stats</summary>
