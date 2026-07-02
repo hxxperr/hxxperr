@@ -12,7 +12,7 @@
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/eddiesark/">
+    <a href="https://www.linkedin.com/in/edgarsark/">
       <img src="https://img.shields.io/badge/LinkedIn-Edgar%20Sarkisov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://t.me/edgar_arch/">
