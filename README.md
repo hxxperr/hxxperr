@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-Edgar%20Sarkisyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://t.me/big_edddd/">
-      <img src="https://img.shields.io/badge/Telegram-edgar__arch-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+      <img src="https://img.shields.io/badge/Telegram-big_edddd-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
   </p>
 </div>
